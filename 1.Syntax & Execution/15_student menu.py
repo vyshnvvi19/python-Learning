@@ -1,0 +1,5 @@
+print("1. Enter Name")
+print("2. Enter Marks")
+print("3. Enter College")
+choice = input("Choose an option: ")
+print("Your choice:", choice)
