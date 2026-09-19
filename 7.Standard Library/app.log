@@ -1,0 +1,7 @@
+2026-09-19 09:00 INFO Application started
+2026-09-19 09:05 INFO User logged in
+2026-09-19 09:10 WARNING Low disk space
+2026-09-19 09:15 ERROR Database connection failed
+2026-09-19 09:20 INFO User logged out
+2026-09-19 09:25 ERROR File not found
+2026-09-19 09:30 WARNING Memory usage is high
