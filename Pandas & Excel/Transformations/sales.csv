@@ -1,0 +1,7 @@
+Order_ID,Date,Product,Category,Quantity,Price,City
+ORD001,2026-01-05,Laptop,Electronics,2,50000,Hyderabad
+ORD002,2026-01-12,Mouse,Electronics,5,800,Hyderabad
+ORD003,2026-02-03,Chair,Furniture,4,3000,Warangal
+ORD004,2026-02-15,Laptop,Electronics,1,50000,Hyderabad
+ORD005,2026-03-08,Desk,Furniture,2,7000,Karimnagar
+ORD006,2026-03-20,Mouse,Electronics,10,800,Warangal
